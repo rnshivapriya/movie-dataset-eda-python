@@ -6,6 +6,20 @@ This project performs Exploratory Data Analysis (EDA) on a movie dataset using P
 
 ---
 
+### Genre Distribution
+
+![Genre Distribution](genre_distribution.png)
+
+### Language Distribution
+
+![Language Distribution](language_distribution.png)
+
+### Popularity Distribution
+
+![Movies Released Distribution](movies_released_distribution.png)
+
+---
+
 ## 🛠️ Tools Used
 
 - Python
